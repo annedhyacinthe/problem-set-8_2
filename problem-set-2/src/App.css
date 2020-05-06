@@ -1,0 +1,13 @@
+.card{
+  /* box-sizing: border-box; */
+  height: 50vh;
+  width: 25vw;
+  border-color: green;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.image1{
+  height: 25vh;
+  width: 25vw;
+}
